@@ -1,0 +1,11 @@
+{
+    "address": "111",
+    "private_key": "111",
+    "name": "wallets\\wallet",
+    "init": true,
+    "filename": "./wallets\\wallet.json",
+    "balance": {
+        "ETH": 0.00107,
+        "NTFs": 70
+    }
+}

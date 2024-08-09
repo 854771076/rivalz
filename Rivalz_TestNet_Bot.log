@@ -1,0 +1,220 @@
+2024-08-05T17:24:58.841403+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T17:24:58.843435+0800 SUCCESS 初始化钱包成功-钱包数量：0
+2024-08-05T17:24:58.847405+0800 SUCCESS 创建钱包成功-已保存到 ./wallets\wallet1.json
+2024-08-05T17:25:55.249806+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T17:27:24.978407+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T17:27:32.462462+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T17:28:13.283290+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T17:28:16.770348+0800 SUCCESS 
+index	name      	balance                                                                         	points  
+0  	wallet    	{'ETH': 0.0011, 'NTFs': 14}                                                     	923250  
+
+2024-08-05T17:28:16.773357+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T17:30:05.426683+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T17:30:08.866798+0800 ERROR Error loading wallet: unsupported operand type(s) for +: 'int' and 'str'
+2024-08-05T17:30:08.867798+0800 SUCCESS 
+index	name      	balance                                                                         
+暂无钱包，请创建...
+2024-08-05T17:30:08.867798+0800 SUCCESS 初始化钱包成功-钱包数量：0
+2024-08-05T17:30:25.724212+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T17:30:28.811123+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.0011, 'NTFs': 50}                                                     
+
+2024-08-05T17:30:28.812123+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T17:33:18.376979+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T17:33:21.411694+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.0011, 'NTFs': 50}                                                     
+
+2024-08-05T17:33:21.412693+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T17:33:23.601077+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.0011, 'NTFs': 50}                                                     
+
+2024-08-05T17:33:23.603078+0800 INFO wallets\wallet-距离上次执行-checkin-还没有一天
+2024-08-05T17:33:26.435469+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.0011, 'NTFs': 50}                                                     
+
+2024-08-05T17:33:26.436468+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.0011, 'NTFs': 50}                                                     
+
+2024-08-05T17:34:19.435595+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T17:34:22.455410+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.0011, 'NTFs': 50}                                                     
+
+2024-08-05T17:34:22.456410+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T17:34:25.277193+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.0011, 'NTFs': 50}                                                     
+
+2024-08-05T17:34:30.538665+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xa466bc9b67c01382e620f152f6e6a666a7919480d695b7691aac3af1cbb87a59-交易状态: 1
+2024-08-05T17:34:34.331399+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xb4821add72f8e3be9f106ccbb97e19a16d132a02a6771087ac1a0d2c8f54c346-交易状态: 1
+2024-08-05T17:34:38.333305+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xaa19e2a4923e7e0585f8f0b5b010be0ecc61744e0653fd5bc1775e1a1bebfbc0-交易状态: 1
+2024-08-05T17:34:42.016803+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xe5a1ae4f6d5b39fb1bf72dee8e76f4550afdc91bea644249f9f79a32ebb14a3a-交易状态: 1
+2024-08-05T17:34:45.608026+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x012d6afd5abed2893d17dc5408c67a24ec85c2b42738c7b4b6b3e09fdd7cd9f5-交易状态: 1
+2024-08-05T17:34:49.204756+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xed30d44987ee490c740ea589dff77af0b52bb404de2bf2756166bf28c15fe9b2-交易状态: 1
+2024-08-05T17:34:52.779686+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xb069baf2c0e5558df042b49521c5d3b146d97c98e3cc8da03f87ecb7728816de-交易状态: 1
+2024-08-05T17:34:56.604279+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x130e77f048903bcde4d4278fc130621e565464730752c01b5d4f532128ea7d50-交易状态: 1
+2024-08-05T17:35:00.170211+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x6ba809b150c12f0b7304ea406dcd2dfef3c917df2ce34bc00a23599592dc7644-交易状态: 1
+2024-08-05T17:35:03.750563+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xd7a9f31fdcc5cbed2057cf9a74e4f4be8e4a4931903c2eaf4e89a40a730ac7aa-交易状态: 0
+2024-08-05T17:35:07.489884+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x7f7d9f0739c3fd18ae3cd73ee8805f2d7bdb027d44b4313e85c3043db1b0bb77-交易状态: 1
+2024-08-05T17:35:11.059404+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x29d2270c7e79d8084894d292360c8e6bec07a7f34180ad38747dcaa5fc32a455-交易状态: 0
+2024-08-05T17:35:15.179101+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x772a98035c3b7857fb1b2d2e2647189f2b2f05a038b46a71c7e990766e1fa6c2-交易状态: 0
+2024-08-05T17:35:18.861618+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x1cd3f2b15eac1adc7554754a5ddd4a6515097cc7faa936c3ff6aa5b738b64a94-交易状态: 0
+2024-08-05T17:35:22.552154+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xd6bce812fd8045bf8e56d4b6b4a890887b337b00dc119368d91d6e44cf8a5c91-交易状态: 1
+2024-08-05T17:35:26.314557+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x0e83bb70c82938e6a56c7ffb91701abf52b8378edd11246e15f9141a33515f8f-交易状态: 1
+2024-08-05T17:35:30.059624+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x14703f3e6cee8d5d30f9aa96f64dc74e3c69ffa77b83af4e2f4bd1592135174e-交易状态: 0
+2024-08-05T17:35:33.765109+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x3dfbf4756dbfbe167e2456bc852946e320afe6a5875f261839b4945806d829fc-交易状态: 1
+2024-08-05T17:35:37.458082+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x11b25323df316611232b38fac0999bdda03ea3a0e8ea6db2579dd5d43dc0d71a-交易状态: 0
+2024-08-05T17:35:41.130531+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xc9679726d61365102920259a6b0f028ae2601f6ab140fb7f600a0f6aa86081e4-交易状态: 1
+2024-08-05T17:35:44.851209+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xa4d3e97687af7bb8459e63b5218beb572954bb71c02691ee1aeb24740b6d2f1b-交易状态: 0
+2024-08-05T17:35:48.623941+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xb4fff1b5cf173f8b1ffca98f08cc5ef5a23bef000a366b92025ba305cc97ac40-交易状态: 1
+2024-08-05T17:35:52.484077+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xa6d2c1489a4e6412b9a741e19f56cbc3d1efde9e8b1696db9ac3cbd780e78f72-交易状态: 0
+2024-08-05T17:35:56.172825+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xf08321f47278417ac5b8bd3e222cf7cdbae652c7621b6676bffa600cd4e48690-交易状态: 1
+2024-08-05T17:35:59.886530+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x4f07c00f1db22a342228109a593a9f3836789b86a91307acbb9a0d538764b4dc-交易状态: 0
+2024-08-05T17:36:03.996049+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xd8872edc26402ade403e134f2cc3153bb8545d0aab31962beb6afb06f8e4a981-交易状态: 1
+2024-08-05T17:36:07.630112+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x359a3a8f3fd4ac5faece3aaf76b7f376f040bcf34a8d7e3bcf4e2bbf05955375-交易状态: 0
+2024-08-05T17:36:11.200184+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xd84c35094c21505138a93d2e6b76a5a8be700320c031269f689ee7a692f375b1-交易状态: 1
+2024-08-05T17:36:14.923014+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xd4d40c47261a0efe84e106a2d9ce4e9fea48383a5be41e6238aa3125d6b68f26-交易状态: 0
+2024-08-05T17:36:18.501563+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xff466259d07c9686a9e8877b976a5d272ed04f94f23e2652ec5df1d15f1c89c6-交易状态: 0
+2024-08-05T17:36:22.078560+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xc7f2418aa910a804b368f01cc5e24a489dd54a068f3ecbfc74dca28d14ae66f2-交易状态: 0
+2024-08-05T17:36:25.865591+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x11405c1e7b5f8ee4f0482d4f318dce09edc9c3c9c39a60fb877cfdbcbacae70e-交易状态: 0
+2024-08-05T17:36:29.444549+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x4bb78d0665bbb6ac967a9e8438e6d07a4a85ba444322738821eb9da596b226db-交易状态: 1
+2024-08-05T17:36:33.009441+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0xe27a5677d6d7427b1250f1d3d81e538dad71b9c5db7f942c8ad214e0e9c1e7ce-交易状态: 0
+2024-08-05T17:36:36.612176+0800 SUCCESS wallets\wallet签到成功-count:0-Transaction-交易哈希: 0x667f076985feed4a502752496e3dbb0e15dff7196b5aafa2c590aaaf3e91984d-交易状态: 1
+2024-08-05T17:36:37.502701+0800 WARNING wallets\wallet-当日已签到或错误-('0x658afa74', '0x658afa74')
+2024-08-05T17:36:41.206018+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T17:57:37.350884+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T17:57:39.571221+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T17:57:39.572218+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T17:57:42.477092+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T17:57:44.170193+0800 WARNING wallets\wallet-当日已签到或错误-('0x658afa74', '0x658afa74')
+2024-08-05T17:57:46.965382+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:00:18.099919+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T18:00:21.638844+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:00:21.639842+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T18:00:24.428999+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:00:26.183999+0800 ERROR Error daily_task wallet: ('0x658afa74', '0x658afa74')
+2024-08-05T18:00:29.013142+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:01:29.307937+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T18:01:32.742013+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:01:32.743012+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T18:01:35.610214+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:01:37.310522+0800 ERROR Error daily_task wallet: ('0x658afa74', '0x658afa74')
+2024-08-05T18:01:40.108864+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:02:08.926334+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T18:02:11.939089+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:02:11.940089+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T18:02:14.760039+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:02:16.483124+0800 WARNING wallets\wallet-当日已签到或错误-('0x658afa74', '0x658afa74')
+2024-08-05T18:02:19.969008+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:02:47.216718+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T18:02:50.423022+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:02:50.423022+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T18:02:53.433661+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:03:36.533697+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T18:03:39.591177+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:03:39.592178+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T18:03:42.376124+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:05:05.034236+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T18:05:11.246931+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:05:11.247932+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T18:05:15.856618+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:05:19.359970+0800 ERROR wallets\wallet签到失败-count:0-ERROR：('0x658afa74', '0x658afa74')
+2024-08-05T18:05:19.360972+0800 SUCCESS 钱包信息已更新 ./wallets\wallet.json
+2024-08-05T18:05:24.162150+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:05:31.110264+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T18:05:35.277285+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:05:35.278286+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T18:05:41.726603+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:05:41.728603+0800 INFO wallets\wallet-距离上次执行-checkin-还没有一天
+2024-08-05T18:05:47.349328+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:09:20.299035+0800 SUCCESS 初始化智能合约成功：dict_keys(['claim'])
+2024-08-05T18:09:28.042313+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:09:28.043313+0800 SUCCESS 初始化钱包成功-钱包数量：1
+2024-08-05T18:09:33.572352+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+
+2024-08-05T18:09:37.137458+0800 ERROR wallets\wallet签到失败-count:0-ERROR：('0x658afa74', '0x658afa74')
+2024-08-05T18:09:37.138459+0800 ERROR Error daily_task wallet: ('0x658afa74', '0x658afa74')
+2024-08-05T18:09:42.345427+0800 SUCCESS 
+index	name      	balance                                                                         
+0  	wallet    	{'ETH': 0.00107, 'NTFs': 70}                                                    
+

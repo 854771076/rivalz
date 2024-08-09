@@ -1,0 +1,15 @@
+{
+    "name":"claim",
+    "address":"0xeBBa6Ffff611b7530b57Ed07569E9695B98e6c82",
+    "abi":[
+
+    {
+        "inputs": [],
+        "name": "claim",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    }
+     
+]
+}
